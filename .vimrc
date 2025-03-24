@@ -29,7 +29,7 @@ Plugin 'MaxMEllon/vim-jsx-pretty'
 Plugin 'mattn/emmet-vim'
 Plugin 'eslint/eslint'
 Plugin 'dense-analysis/ale'
-Plugin 'wincent/command-1'
+Plugin 'wincent/command-t'
 " plugin from http://vim-scripts.org/vim/scripts.html
 " Plugin 'L9'
 " Git plugin not hosted on GitHub
